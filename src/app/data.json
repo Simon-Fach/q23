@@ -1,0 +1,11 @@
+
+[
+    { "zeitpunkt": "2024-01-01T9:00:00", "temperatur": 23.0, "co2":360 },
+    { "zeitpunkt": "2024-01-01T10:00:00", "temperatur": 22.5, "co2":350 },
+    { "zeitpunkt": "2024-01-01T11:00:00", "temperatur": 21.5, "co2":399 },
+    { "zeitpunkt": "2024-01-01T12:00:00", "temperatur": 23.0, "co2":400 },
+    { "zeitpunkt": "2024-01-01T13:00:00", "temperatur": 23.0, "co2":541 },
+    { "zeitpunkt": "2024-01-01T14:00:00", "temperatur": 23.5, "co2":800 },
+    { "zeitpunkt": "2024-01-01T15:00:00", "temperatur": 25.0, "co2":802 },
+    { "zeitpunkt": "2024-01-01T16:00:00", "temperatur": 24.0, "co2":801 }
+]
